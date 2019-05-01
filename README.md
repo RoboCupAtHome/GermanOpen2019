@@ -13,13 +13,30 @@ issues, we highly appreciate if you report them using the “Issue” system or 
 
 * Note: During the Team-Leader Meeting we will only discuss general topics opic altr tasks for the following day.
 
-## Testing 02.05
+## Slots 02.05
+
+### Testing (limited amount of teams)
 
 | Time     | Team 1          | Team 2                 | Team 3
 |----------|-----------------|------------------------|--------------------------------------
 | 10:00:00 | B-it-bots	     | ToBi	                  | PARICHARYA
 | 10:30:00 | CATIE Robotics  | Tech United Eindhoven  | homer@UniKoblenz
 | 11:00:00 | Golem	         | SUTURO	              | SCC - Serious Cybernetics Corporation
+
+
+### Mapping (one team onlu)
+
+| Time     | Team
+|----------|-----------------------------------------
+| 13:00:00 | B-it-bots
+| 13:10:00 | CATIE Robotics
+| 13:20:00 | Golem
+| 13:30:00 | homer@UniKoblenz
+| 13:40:00 | PARICHARYA
+| 13:50:00 | SCC - Serious Cybernetics Corporation
+| 14:00:00 | SUTURO
+| 14:10:00 | Tech United Eindhoven
+| 14:20:00 | ToBi
 
 # Arena
 
