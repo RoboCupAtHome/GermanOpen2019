@@ -13,6 +13,47 @@ issues, we highly appreciate if you report them using the “Issue” system or 
 
 * Note: During the Team-Leader Meeting we will only discuss general topics or tasks for the following day.
 
+## Schedule
+
+|Order | Robot Inspection (Thu 16-18) 
+|------|------------------------------
+|1     | CATIE                        
+|2     | PARICHARYA                   
+|3     | SUTURO                       
+|4     | b-it-bots                    
+|5     | SCC                          
+|6     | Golem                        
+|7     | Tech United                  
+|8     | ToBI                         
+|9     | Homer                        
+
+
+|Order | Stage 1 - Party Host (Fri 10-13) 
+|------|--------------------------------
+|1     | Tech United
+|2     | b-it-bots                   
+|3     | CATIE                       
+|4     | PARICHARYA                  
+|5     | Homer                       
+|6     | SUTURO                      
+|7     | Golem                       
+|8     | ToBI                        
+|9     | SCC                         
+
+
+
+|Order | Stage 1 - Party Host (Fri 10-13) 
+|------|--------------------------------
+|1     | CATIE
+|2     | Golem                     
+|3     | b-it-bots                 
+|4     | SCC                       
+|5     | PARICHARYA                
+|6     | SUTURO                    
+|7     | ToBI                      
+|8     | Tech United               
+|9     | Homer
+
 ## Slots 02.05
 
 ### Testing (limited amount of teams)
@@ -70,3 +111,5 @@ Here is an arena overview:
 ## Robot Inspection
 
 ![robot_inspection](rips.png)
+
+
