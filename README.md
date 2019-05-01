@@ -23,6 +23,8 @@ Here is an arena overview:
 ![Arena](arena.png)
 ![Arena layout](arena_layout.png)
 
+* There is some furniture missing.
+* Furniture positions are about to vary slightly during the days 
 
 # Locations
 
