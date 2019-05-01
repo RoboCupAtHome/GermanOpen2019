@@ -41,3 +41,7 @@ Here is an arena overview:
 * [List of objects (.pdf)](objects/objects.pdf)
 
 # Task Information
+
+## Robot Inspection
+
+![robot_inspection](rips.png)
