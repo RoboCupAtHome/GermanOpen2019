@@ -34,7 +34,7 @@
 # Default locations
 
 * cleaning stuff on dishwasher
-* snacks on couch table
+* snacks on coffee table
 * drinks on kitchen table
 * food in bookcase
 * care in sidetable
