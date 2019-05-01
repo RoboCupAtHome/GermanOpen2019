@@ -13,6 +13,14 @@ issues, we highly appreciate if you report them using the “Issue” system or 
 
 * Note: During the Team-Leader Meeting we will only discuss general topics opic altr tasks for the following day.
 
+## Testing 02.05
+
+| Time     | Team 1          | Team 2                 | Team 3
+|----------|-----------------|------------------------|--------------------------------------
+| 10:00:00 | B-it-bots	     | ToBi	                  | PARICHARYA
+| 10:30:00 | CATIE Robotics  | Tech United Eindhoven  | homer@UniKoblenz
+| 11:00:00 | Golem	         | SUTURO	              | SCC - Serious Cybernetics Corporation
+
 # Arena
 
 * [Sweet Home 3d project file](arena.sh3d)
