@@ -42,7 +42,7 @@ issues, we highly appreciate if you report them using the “Issue” system or 
 
 
 
-|Order | Stage 1 - Party Host (Fri 10-13) 
+|Order | Stage 1 - House Keeper (Fri 15-18) 
 |------|--------------------------------
 |1     | CATIE
 |2     | Golem                     
