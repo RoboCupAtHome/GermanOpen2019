@@ -40,3 +40,4 @@
 * care in sidetable
 * container on tv table
 * fruit on bar table
+* kitchen stuff on kitchen cabinet
