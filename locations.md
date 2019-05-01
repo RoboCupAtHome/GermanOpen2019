@@ -27,7 +27,7 @@
 
 ## Bar
 
-* storage shelf
+* cupboard
 * bar table
 * sofa
 
