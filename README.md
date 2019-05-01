@@ -26,7 +26,7 @@ Here is an arena overview:
 
 # Locations
 
-* List of locations and default locations for object classes
+* [List of locations and default locations for object classes](locations.md)
 
 
 # Names
