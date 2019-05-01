@@ -2,7 +2,6 @@
 
 ## Bedroom
 
-
 * bed
 * desk
 * side table
@@ -20,14 +19,17 @@
 * tv table
 * bookcase
 * couch
-* arm chairs
+* left arm chair
+* right arm chair
 * coffee table
+* sideboard
+* high table
 
 ## Bar
 
 * storage shelf
 * bar table
-* spare table
+* sofa
 
 # Default locations
 
@@ -35,6 +37,6 @@
 * snacks on couch table
 * drinks on kitchen table
 * food in bookcase
-* care in storage shelf
+* care in sidetable
 * container on tv table
-* fruit on side table
+* fruit on bar table

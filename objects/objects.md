@@ -1,14 +1,14 @@
 
-# Class cutlery
+# Class kitchen_stuff
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
-| bowl  |  ![](objects/cutlery/bowl.jpg) |
-| cup  |  ![](objects/cutlery/cup.jpg) |
-| fork  |  ![](objects/cutlery/fork.jpg) |
-| knife  |  ![](objects/cutlery/knife.jpg) |
-| plate  |  ![](objects/cutlery/plate.jpg) |
-| spoon  |  ![](objects/cutlery/spoon.jpg) |
+| bowl  |  ![](objects/kitchen_stuff/bowl.jpg) |
+| cup  |  ![](objects/kitchen_stuff/cup.jpg) |
+| fork  |  ![](objects/kitchen_stuff/fork.jpg) |
+| knife  |  ![](objects/kitchen_stuff/knife.jpg) |
+| plate  |  ![](objects/kitchen_stuff/plate.jpg) |
+| spoon  |  ![](objects/kitchen_stuff/spoon.jpg) |
 
 
 # Class drinks
