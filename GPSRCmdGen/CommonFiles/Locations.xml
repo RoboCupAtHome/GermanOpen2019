@@ -33,7 +33,7 @@
   <room name="bar">
     <location name="bar table" isBeacon="true" isPlacement="true" />
     <location name="sofa" isBeacon="true" isPlacement="false" />
-    <location name="storage shelf" isBeacon="true" isPlacement="true"/>
+    <location name="cupboard" isBeacon="true" isPlacement="true"/>
   </room>
 </rooms>
 
