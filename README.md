@@ -11,7 +11,7 @@ issues, we highly appreciate if you report them using the “Issue” system or 
 
 ![Timetable](timetable.png)
 
-* Note: During the Team-Leader Meeting we will only discuss general topics opic altr tasks for the following day.
+* Note: During the Team-Leader Meeting we will only discuss general topics or tasks for the following day.
 
 ## Slots 02.05
 
