@@ -145,9 +145,6 @@ Here is an arena overview:
 * objects will be on sideboard
 * enter through entrance
 
-![serving drinks](serving_drinks.png)
-
-
 ## Take out the garbage
 
 ![take out the garbage](take_out_the_garbage.png)
