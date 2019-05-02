@@ -112,4 +112,43 @@ Here is an arena overview:
 
 ![robot_inspection](rips.png)
 
+## Carry My Luggage
+
+![carry my luggage](carry_my_luggage.png)
+
+## Farewell
+
+![farewell](farewell.png)
+
+## Find My Mates
+
+![find my mates](find_my_mates.png)
+
+* Location living room
+
+## GPSR
+
+![gpsr](gpsr.png)
+
+
+## Receptionist
+
+![receptionist](receptionist.png)
+
+## Serving Drink
+
+![serving drinks](serving_drinks.png)
+
+## Storing Groceries
+
+* test will take place at bookcase 
+* objects will be on sideboard
+* enter through entrance
+
+![serving drinks](serving_drinks.png)
+
+
+## Take out the garbage
+
+![take out the garbage](take_out_the_garbage.png)
 
