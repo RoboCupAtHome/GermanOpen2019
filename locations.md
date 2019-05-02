@@ -12,6 +12,9 @@
 * kitchen table
 * kitchen cabinet
 * dishwasher
+* cabinet
+* white drawe
+* trash can
 
 
 ## Living Room
@@ -24,6 +27,8 @@
 * coffee table
 * sideboard
 * high table
+* trash bin
+* coathanger
 
 ## Bar
 
