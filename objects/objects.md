@@ -1,14 +1,9 @@
 
-# Class kitchen_stuff
+# Class other
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
-| bowl  |  ![](objects/kitchen_stuff/bowl.jpg) |
-| cup  |  ![](objects/kitchen_stuff/cup.jpg) |
-| fork  |  ![](objects/kitchen_stuff/fork.jpg) |
-| knife  |  ![](objects/kitchen_stuff/knife.jpg) |
-| plate  |  ![](objects/kitchen_stuff/plate.jpg) |
-| spoon  |  ![](objects/kitchen_stuff/spoon.jpg) |
+| trashbag  |  ![](objects/other/trashbag.jpg) |
 
 
 # Class drinks
@@ -16,7 +11,11 @@
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
 | apple_juice  |  ![](objects/drinks/apple_juice.jpg) |
+| big_coke  |  ![](objects/drinks/big_coke.jpg) |
+| big_lemon_juice  |  ![](objects/drinks/big_lemon_juice.jpg) |
+| big_water  |  ![](objects/drinks/big_water.jpg) |
 | iso_drink  |  ![](objects/drinks/iso_drink.jpg) |
+| milk  |  ![](objects/drinks/milk.jpg) |
 | orange_juice  |  ![](objects/drinks/orange_juice.jpg) |
 | red_spritzer  |  ![](objects/drinks/red_spritzer.jpg) |
 | sparkling_water  |  ![](objects/drinks/sparkling_water.jpg) |
@@ -44,6 +43,7 @@
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
 | bouillon  |  ![](objects/food/bouillon.jpg) |
+| cereal  |  ![](objects/food/cereal.jpg) |
 | corn  |  ![](objects/food/corn.jpg) |
 | noodles  |  ![](objects/food/noodles.jpg) |
 | pepper  |  ![](objects/food/pepper.jpg) |
@@ -57,6 +57,20 @@
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
+| basket  |  ![](objects/container/basket.jpg) |
+| tray  |  ![](objects/container/tray.jpg) |
+
+
+# Class kitchen_stuff
+
+| Objectname               |  Image                   |
+:-------------------------:|:-------------------------:
+| bowl  |  ![](objects/kitchen_stuff/bowl.jpg) |
+| cup  |  ![](objects/kitchen_stuff/cup.jpg) |
+| fork  |  ![](objects/kitchen_stuff/fork.jpg) |
+| knife  |  ![](objects/kitchen_stuff/knife.jpg) |
+| plate  |  ![](objects/kitchen_stuff/plate.jpg) |
+| spoon  |  ![](objects/kitchen_stuff/spoon.jpg) |
 
 
 # Class cleaning_stuff
