@@ -13,7 +13,7 @@
 * kitchen cabinet
 * dishwasher
 * cabinet
-* white drawe
+* white drawer
 * trash can
 
 
