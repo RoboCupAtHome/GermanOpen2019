@@ -139,6 +139,8 @@ Here is an arena overview:
 
 ![serving drinks](serving_drinks.png)
 
+* Bar table will be the bar
+
 ## Storing Groceries
 
 * test will take place at bookcase 
