@@ -15,6 +15,8 @@ issues, we highly appreciate if you report them using the “Issue” system or 
 
 # Scores
 
+## Stage 1
+
 ![Scores Stage 1](scores_stage_1.png)
 
 <!--|Name       | Robot Inspection | Poster| Party Host 1 |#1|	Party Host 2| #2|	Party Host 3    |	#3|	Party Host |	Housekeeper 1 |	#1   | Housekeeper 2  |#2|	Housekeeper 3	#3|	Housekeeper	| Stage 1|-->
