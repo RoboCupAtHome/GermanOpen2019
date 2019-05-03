@@ -31,10 +31,50 @@ issues, we highly appreciate if you report them using the “Issue” system or 
 <!--|TechUnited	|Passed            |  28.57|	        0 | 1|0             |1   |                 0|    1|           0|	             1|		1|		         1|	0|	              |   |             |   28.57|-->
 <!--|ToBI		|Passed            |  31.43|	       350| 1|0             |1   |                 0|    1|         350|	             1|		1|		         1|	0|	              |   |             |  381.43|																			-->
 
+## Schedule (Saturday)
+
+|Order | Stage 2 - Housekeeper (Sa 10-12) 
+|------|------------------------------
+|1     | SCC                        
+|2     | TOBI                   
+|3     | Golem                       
+|4     | Tech United                    
+|5     | PARICHARYA                          
+|6     | Homer                        
+|7     | b-it-bots                  
+|8     | CATIE                    
+|9     | SUTURO                        
+
+
+|Order | Stage 2 - Party Host (Sa 13-15) 
+|------|--------------------------------
+|1     | Homer
+|2     | b-it-bots                   
+|3     | ToBI                       
+|4     | Tech United                  
+|5     | CATIE                       
+|6     | SCC                      
+|7     | SUTURO                       
+|8     | Golem                        
+|9     | PARICHARYA                         
+
+
+
+|Order | Stage 2 - Restaurant (Sa 16-18) 
+|------|--------------------------------
+|1     | SCC
+|2     | b-it-bots                     
+|3     | Tech United                 
+|4     | ToBI                       
+|5     | Golem                
+|6     | SUTURO                   
+|7     | CATIE                      
+|8     | PARICHARYA               
+|9     | Homer
 																
 
 
-## Schedule
+## Schedule (Friday)
 
 |Order | Robot Inspection (Thu 16-18) 
 |------|------------------------------
