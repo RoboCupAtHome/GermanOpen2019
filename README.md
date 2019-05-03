@@ -217,4 +217,4 @@ Here is an arena overview:
 
 * Handover data right after the round
 * Partial penalties
-* in front of entrance
+* initial position could be anywhere
