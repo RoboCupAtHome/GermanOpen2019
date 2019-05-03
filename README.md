@@ -135,6 +135,8 @@ Here is an arena overview:
 
 ![receptionist](receptionist.png)
 
+* Favorite drink of John is red spritzer
+
 ## Serving Drink
 
 ![serving drinks](serving_drinks.png)
