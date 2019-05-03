@@ -174,3 +174,47 @@ Here is an arena overview:
 
 ![take out the garbage](take_out_the_garbage.png)
 
+
+# Stage 2
+
+## House Keeper
+
+### Dishwasher
+
+* Kitchen stuff will be on the kitchen table
+* Dishwasher tab on Kitchen cabinet
+
+### EGPSR
+
+![egpsr](gpsr.png)
+
+### Find my disk
+
+* Disks are in bookcase
+
+### Set the table
+
+* Kitchen stuff will be in or on cabinet
+
+## Hand me that
+
+* Known and alike
+* Living room
+
+## Restaurant
+
+* Unknown location
+
+## Smoothie Chef
+
+## Stickler for the Rules
+
+![Stickler for the rules](carry_my_luggage.png)
+
+* bedroom is restricted
+
+## Where is this?
+
+* Handover data right after the round
+* Partial penalties
+* in front of entrance
