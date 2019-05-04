@@ -14,7 +14,7 @@ issues, we highly appreciate if you report them using the “Issue” system or 
 * Note: During the Team-Leader Meeting we will only discuss general topics or tasks for the following day.
 
 # Scores
-
+ 
 ## Stage 1
 
 ![Scores Stage 1](scores_stage_1.png)
