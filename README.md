@@ -15,6 +15,10 @@ issues, we highly appreciate if you report them using the “Issue” system or 
 
 # Scores
 
+## Final
+
+![Scores Final](scores_final.png)
+
 ## Stage 2
 
 ![Scores Stage 2](scores_stage_2.png)
